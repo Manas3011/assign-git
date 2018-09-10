@@ -20,7 +20,4 @@ push into the master or the release branches only to senior developers
 without taking away the opportunity from other developers to utilize the 
 source control features and its benefits.
 In a project how many remote Git repositories do you usually have?
-In a project there can be several remote repositories depending on the 
-developer’s criteria to segregate tasks for different repositories. The 
-remote repositories are typically created to accommodate different 
-tasks currently being performed in the project.
+In a project there is generally one remote repositories which is used by different developers. The developers create branches for the remote repository and set up their local environment and use it to constantly update the remote repository.
